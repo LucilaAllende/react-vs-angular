@@ -5,3 +5,4 @@
 2. [Componentes](2.componentes.md)
 3. [Estado local](3.estadolocal.md)
 4. [Props](4.props.md)
+5. [Ciclo de vida](5.ciclovidacomponente.md)
