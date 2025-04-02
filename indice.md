@@ -7,3 +7,4 @@
 4. [Props](4.props.md)
 5. [Ciclo de vida](5.ciclovidacomponente.md)
 6. [Comunicación de componentes](6.comunicacioncomponentes.md)
+8. [Manejo de vistas](8.manejodevistas.md)
