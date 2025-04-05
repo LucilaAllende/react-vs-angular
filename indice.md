@@ -9,3 +9,4 @@
 6. [Comunicación de componentes](6.comunicacioncomponentes.md)
 8. [Manejo de vistas](8.manejodevistas.md)
 9. [Servicios](9.servicios.md)
+10. [Rendimiento renderizado](10.rendimientorenderizado.md)
