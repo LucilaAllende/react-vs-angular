@@ -12,3 +12,4 @@
 10. [Rendimiento renderizado](10.rendimientorenderizado.md)
 11. [Formularios](11.formularios.md)
 12. [Rutas](12.rutas.md)
+13. [SSR](13.ssr.md)
