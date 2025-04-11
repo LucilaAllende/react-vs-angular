@@ -15,3 +15,4 @@
 12. [Rutas](12.rutas.md)
 13. [SSR](13.ssr.md)
 14. [Testing](14.testing.md)
+16. [Internacionalizacion](16.internacionalizacion.md)
