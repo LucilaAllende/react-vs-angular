@@ -18,3 +18,4 @@
 15. [Estilos](15.estilos.md)
 16. [Internacionalizacion](16.internacionalizacion.md)
 17. [Manejo de errores](17.manejodeerrores.md)
+18. [Herramientas](18.herramientasdev.md)
